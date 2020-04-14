@@ -22,6 +22,3 @@ sudo crontab -e
 ```bash
 */15 * * * * /path/to/file.sh
 ```
-
-## Dependencies
-This bash script utilizes the tool
